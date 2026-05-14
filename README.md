@@ -1,59 +1,62 @@
 # 🍽️ AI Review Analyzer — RM Salero Minang
 
-Sistem otomasi analisis review pelanggan menggunakan 
-Claude AI dengan teknik Prompt Chaining 3 tahap.
+Automated customer review analysis system using 
+Claude AI with 3-step Prompt Chaining technique.
 
-## 📋 Tentang Proyek
-Mengubah 50 review mentah dari Google Maps menjadi 
-laporan analisis profesional siap presentasi ke direksi
-— secara otomatis dalam hitungan menit.
+## 📋 About
+Transforms 50 raw Google Maps reviews into a 
+professional executive report — automatically 
+in minutes.
 
-## ⚙️ Cara Kerja
-Input Excel (50 review)
+## ⚙️ How It Works
+Excel Input (50 reviews)
 ↓
-Chain 1 → Klasifikasi sentimen + jenis review
+Chain 1 → Sentiment classification + review type
 ↓
-Chain 2 → Agregasi & analisis per kategori
+Chain 2 → Aggregation & analysis per category
 ↓
-Chain 3 → Laporan eksekutif untuk direksi
+Chain 3 → Executive report for management
 
-## 🛠️ Teknologi
+## 🛠️ Tech Stack
 - Python 3.14
 - Anthropic Claude API (claude-sonnet-4-6)
-- Pandas (baca Excel)
-- Teknik: Prompt Chaining, JSON Output Formatting
+- Pandas (Excel reader)
+- Techniques: Prompt Chaining, JSON Output Formatting
 
-## 📁 Struktur Folder
+## 📁 Project Structure
 Analisis-RM-Salero-Minang/
-├── AnalisReview.py               ← program utama
-├── config.py                     ← API key (tidak di-upload)
-├── data_review_salero_minang.xlsx← data input
-├── README.md                     ← dokumentasi ini
+├── AnalisReview.py               ← main program
+├── config.py                     ← API key (not uploaded)
+├── data_review_salero_minang.xlsx← input data
+├── README.md                     ← this file
 └── output/
-├── hasil_chain1.json         ← hasil klasifikasi
-├── hasil_chain2.json         ← hasil rekap
-└── hasil_laporan_direksi.txt ← laporan akhir
+├── hasil_chain1.json         ← classification results
+├── hasil_chain2.json         ← aggregated data
+└── hasil_laporan_direksi.txt ← final executive report
 
-## 🚀 Cara Menjalankan
-1. Clone repository ini
+## 🚀 Getting Started
+1. Clone this repository
 2. Install dependencies:
-   pip install anthropic pandas openpyxl
-3. Buat file config.py dan isi API key:
+
+pip install anthropic pandas openpyxl
+3. Create config.py with your API key:
+```python
    API_KEY = "sk-ant-xxxx..."
-4. Jalankan program:
-   python3 AnalisReview.py
+```
+4. Run the program:
+python3 AnalisReview.py
 
-## 📊 Contoh Output
-- 50 review terklasifikasi otomatis
-- Rekap: 26 Positif | 22 Negatif | 2 Netral
-- Laporan eksekutif siap presentasi
+## 📊 Sample Output
+- 50 reviews automatically classified
+- Summary: 26 Positive | 22 Negative | 2 Neutral
+- Executive report ready for presentation
 
-## 💡 Use Case
-Bisa dipakai untuk bisnis apapun yang punya review:
-- Restoran & cafe
-- Hotel
-- Toko online
-- Startup
+## 💡 Use Cases
+Can be used for any business with customer reviews:
+- Restaurants & cafes
+- Hotels
+- E-commerce
+- Startups
 
-## 👨‍💻 Dibuat dengan
+## 👨‍💻 Built With
 Claude AI + Python
