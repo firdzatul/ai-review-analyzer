@@ -1,0 +1,34 @@
+# LAPORAN ANALISIS ULASAN PELANGGAN
+**Periode Analisis | Total Sampel: 50 Ulasan**
+
+---
+
+## I. PEMBUKA
+
+Dari 50 ulasan yang terkumpul, terdapat **26 ulasan positif (52%)**, **22 ulasan negatif (44%)**, dan **2 ulasan netral (4%)**. Distribusi topik ulasan didominasi oleh aspek **layanan (30 ulasan / 60%)** dibanding makanan (20 ulasan / 40%), menandakan layanan sebagai faktor kritis kepuasan pelanggan.
+
+---
+
+## II. ISI — TEMUAN UTAMA
+
+**Kekuatan:** Kualitas dan konsistensi rasa makanan mendapat apresiasi tinggi (rendang, ayam pop, gulai). Suasana tempat dinilai nyaman dan bersih oleh sebagian pelanggan.
+
+**Permasalahan Kritis:**
+- **Pramusaji** menjadi keluhan terbesar (8 keluhan): tidak ramah, lambat, tidak profesional
+- **Layanan Delivery** bermasalah serius (4 keluhan): keterlambatan ekstrem, CS tidak responsif, pesanan salah
+- **Higienitas** disoroti pada toilet (2 keluhan) dan alat makan (2 keluhan)
+- **Parkir sempit** berulang disebut (2 keluhan)
+- Indikasi **penurunan kualitas bahan** dan **ketidaksesuaian harga-porsi** mulai muncul sebagai sinyal awal
+
+---
+
+## III. REKOMENDASI
+
+1. **Pelatihan SDM Pramusaji** — Laksanakan *refreshment training* standar pelayanan dalam 30 hari; terapkan KPI keramahan berbasis ulasan pelanggan
+
+2. **Audit & SOP Delivery** — Evaluasi mitra pengiriman, tetapkan batas waktu maksimal, aktifkan *dedicated CS* untuk kanal online guna menekan churn pelanggan digital
+
+3. **Program Apresiasi Pelanggan Loyal** — Berikan insentif (diskon/prioritas) kepada pelanggan setia sebagai *retention strategy* sekaligus memperkuat ulasan positif organik
+
+---
+*Laporan disusun berdasarkan analisis data ulasan pelanggan. Direkomendasikan tindak lanjut dalam 30–60 hari.*

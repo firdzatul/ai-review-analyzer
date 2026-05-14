@@ -1,0 +1,262 @@
+{
+  "totalData": "50",
+  "totalPositif": "26",
+  "totalNegatif": "22",
+  "totalNetral": "2",
+  "totalRevLayanan": "30",
+  "totalRevMakanan": "20",
+  "layananKomplain": "Pelayanan/Pramusaji (tidak ramah, lambat, tidak responsif, tidak profesional) - 8 keluhan, Delivery/Online Order (terlambat, salah pesanan, CS tidak responsif) - 4 keluhan, Parkir (sempit, susah) - 2 keluhan, Toilet (kotor, tidak terawat) - 2 keluhan, Kebersihan (meja kotor, alat makan tidak higienis) - 2 keluhan, AC mati - 1 keluhan, Antrian tidak teratur - 1 keluhan, Suasana berisik - 1 keluhan, Ongkir mahal - 1 keluhan",
+  "layananPositif": "Suasana/Kenyamanan Tempat (nyaman, bersih, tidak berisik) - 3 impresi, Pelayanan Staff (ramah, membantu, profesional, tepat waktu) - 3 impresi, Lokasi Strategis - 1 impresi, Kebersihan Terjaga - 1 impresi",
+  "detailReview": [
+    {
+      "nama": "Budi S.",
+      "isiReview": "Rendang-nya juara! Dagingnya empuk banget, kuahnya meresap sempurna. Porsinya juga besar. Puas banget!",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Siti R.",
+      "isiReview": "Pelayanannya SANGAT lambat. Nunggu 30 menit baru dilayani padahal resto tidak terlalu ramai.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Ahmad F.",
+      "isiReview": "Harga sesuai kualitas. Makanannya enak, tempatnya bersih. Tapi parkirnya susah banget.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Rina D.",
+      "isiReview": "Sudah 3x ke sini, selalu puas. Favorit saya gulai tunjang dan ayam pop-nya. Recommended!",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Doni P.",
+      "isiReview": "Kecewa! Pesan via online tapi makanan datang sudah dingin dan ada yang kurang. Tidak akan order lagi.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Maya L.",
+      "isiReview": "Tempatnya nyaman, AC dingin, tidak berisik. Cocok buat makan siang sambil meeting.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Reza M.",
+      "isiReview": "Nasi Padang terenak yang pernah saya makan di Jakarta. Sambalnya level dewa!",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Lina K.",
+      "isiReview": "Kasir-nya kurang ramah, muka masam terus. Padahal makanannya enak. Sayang banget.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Hendra W.",
+      "isiReview": "Biasa aja sih, tidak ada yang spesial. Harga agak mahal untuk ukuran warung padang.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Dewi A.",
+      "isiReview": "Toilet-nya kurang bersih dan bau. Makanan oke tapi ini mengurangi selera makan.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Fajar N.",
+      "isiReview": "Porsinya besar banget! Kenyang dengan harga Rp45.000. Worth it buat kantong mahasiswa.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Ayu P.",
+      "isiReview": "Antrian panjang tapi worth it. Semua lauk segar, tidak ada yang terasa sudah basi.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Bimo S.",
+      "isiReview": "Sudah 2 jam tapi pesanan online belum datang. CS tidak bisa dihubungi. Sangat mengecewakan!",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Nisa R.",
+      "isiReview": "Dendeng balado-nya mantap! Tapi minta tambah nasi susah, pramusaji-nya tidak responsif.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Gilang T.",
+      "isiReview": "Tempat parkir sempit banget, motor saja susah. Perlu diperluas atau ada alternatif.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Ratih M.",
+      "isiReview": "Makanannya konsisten enak dari dulu sampai sekarang. Sudah langganan 5 tahun!",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Eko B.",
+      "isiReview": "Pesan untuk acara kantor 50 orang, dilayani dengan baik, tepat waktu, dan makanan tetap panas.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Sari W.",
+      "isiReview": "Harga naik tapi porsi mengecil. Dulu lebih worth it. Agak kecewa.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Tono A.",
+      "isiReview": "Sambal hijaunya the best! Tapi AC mati waktu saya ke sana, gerah banget makannya.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Wulan D.",
+      "isiReview": "Overall bagus. Makanan enak, harga reasonable. Cuma pelayanan perlu ditingkatkan.",
+      "klasifikasiReview": "Netral"
+    },
+    {
+      "nama": "Farida H.",
+      "isiReview": "Gulai ikannya segar banget, tidak amis sama sekali. Kuahnya kental dan gurih. Mantap!",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Irwan S.",
+      "isiReview": "Waitress-nya tidak tahu menu yang tersedia. Harus tanya berkali-kali. Sangat tidak profesional.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Yanti M.",
+      "isiReview": "Makan di sini jadi nostalgic, mirip masakan ibu di kampung. Recommended banget!",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Roni P.",
+      "isiReview": "Meja kotor waktu kami datang, harus minta lap sendiri. Kurang sigap petugasnya.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Sinta D.",
+      "isiReview": "Ayam pop-nya perfect! Digoreng sempurna, bumbunya meresap. Jadi favorit keluarga.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Bagas K.",
+      "isiReview": "Pesanan salah 2 kali, harus complaint dulu baru diperbaiki. Capek sendiri.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Mega R.",
+      "isiReview": "Suasana restoran nyaman dan tidak berisik. Cocok untuk keluarga. Makanan juga enak.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Dian F.",
+      "isiReview": "Harga sudah mahal tapi kualitas tidak sebanding. Ada pilihan yang lebih bagus di sekitar sini.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Arief N.",
+      "isiReview": "Cakalang fufu-nya luar biasa! Jarang ada restoran Padang yang sedia menu ini. Top!",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Lilis K.",
+      "isiReview": "Piring dan sendok masih basah dan berbau saat disajikan. Higienitas perlu diperhatikan.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Beni S.",
+      "isiReview": "Porsi makan anak-anak tersedia, harga terjangkau. Cocok untuk makan keluarga.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Hasna M.",
+      "isiReview": "Pesan delivery sudah 1,5 jam belum datang. Dihubungi tidak ada respon. Sangat kecewa!",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Wahyu P.",
+      "isiReview": "Rendang paru-nya kering sempurna, renyah di luar lembut di dalam. Beli lagi pasti!",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Fitri A.",
+      "isiReview": "Lokasi strategis, mudah dijangkau kendaraan umum. Nilai plus untuk aksesibilitas.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Rudi H.",
+      "isiReview": "Pramusaji tidak ramah dan terlihat ogah-ogahan melayani. Membuat tidak nyaman.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Indah S.",
+      "isiReview": "Variasi lauk sangat beragam, bisa pilih sesuai selera. Semua terlihat segar dan menggiurkan.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Yusuf M.",
+      "isiReview": "Makanan dingin waktu disajikan, seperti sudah lama tidak diganti. Tidak fresh sama sekali.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Putri R.",
+      "isiReview": "Berhasil menemukan cita rasa otentik Minang di Jakarta. Terima kasih Salero Minang!",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Agus D.",
+      "isiReview": "Toiletnya tidak terawat dan selalu kehabisan sabun. Perlu perhatian manajemen.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Vina K.",
+      "isiReview": "Staff sangat membantu menjelaskan menu untuk tamu yang pertama kali datang. Pelayanan prima!",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Rizky F.",
+      "isiReview": "Harga delivery sangat mahal, tidak sebanding dengan jarak. Perlu ditinjau ulang kebijakan ongkirnya.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Nanda S.",
+      "isiReview": "Balado terong-nya juara! Pedasnya pas, tidak terlalu menyengat. Cocok untuk semua selera.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Taufik R.",
+      "isiReview": "Sistem antrian tidak jelas, banyak yang serobot. Perlu sistem yang lebih teratur.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Lia P.",
+      "isiReview": "Makanan selalu konsisten rasanya setiap kunjungan. Bisa diandalkan untuk makan siang rutin.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Anton M.",
+      "isiReview": "Resto penuh dan berisik waktu jam makan siang. Tidak nyaman untuk percakapan bisnis.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Shinta D.",
+      "isiReview": "Gulai otak sapi-nya lembut dan gurih. Langka menemukan restoran yang menyajikan ini dengan baik.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Hadi K.",
+      "isiReview": "Kualitas makanan menurun drastis dibanding 2 tahun lalu. Sepertinya kualitas bahan berkurang.",
+      "klasifikasiReview": "Negatif"
+    },
+    {
+      "nama": "Melinda S.",
+      "isiReview": "Tempat selalu bersih dan terawat. Staff terlihat aktif membersihkan meja setelah tamu pergi.",
+      "klasifikasiReview": "Positif"
+    },
+    {
+      "nama": "Fikri A.",
+      "isiReview": "Parkir motor gratis, parkir mobil berbayar tapi terjangkau. Tidak masalah untuk kami.",
+      "klasifikasiReview": "Netral"
+    },
+    {
+      "nama": "Rahma T.",
+      "isiReview": "Secara keseluruhan memuaskan. Makanan enak, harga reasonable, lokasi strategis. Akan kembali lagi!",
+      "klasifikasiReview": "Positif"
+    }
+  ]
+}
